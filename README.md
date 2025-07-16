@@ -1,5 +1,5 @@
 # Sistema E-commerce:
-Esse é um sistema que permite cadastrar usuarios no banco de dados e guarda os produtos salvos no cache do navegador, sendo possivel vizualizar no carrinho.
+Esse é um sistema que simula uma loja virtual permitindo cadastrar usuarios no banco de dados e guarda os produtos salvos no cache do navegador, sendo possivel vizualizar no carrinho.
 ## Funções:
 - Registrar dados no banco de dados;
 - Buscar dados no banco de dados;
